@@ -1,0 +1,1 @@
+Aplikasi ini digunakan untuk sharing clipboard dan file dari perangkat windows ke smartphone anda. bisa juga untuk sharing clipboard dan file antar sesama perangkat windows, namun anda harus membeli licensi untuk itu. jika kamu mau membeli licensi silahkan kunjungi website resmi copyaja di copyaja.rf.gd
